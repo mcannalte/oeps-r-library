@@ -1,0 +1,14 @@
+r-sf-1.0_1-r41h41e2acd_0.tar.bz2 
+r-rcpp-1.0.5-r36he524a50_0.tar.bz2 
+r-mass-7.3_53-r36hcdcec82_0.tar.bz2
+r-dbi-1.1.1-r40hc72bb7e_0.tar.bz2 
+r-classint-0.4_3-r41h859d828_2.tar.bz2 
+r-class-7.3_19-r40hcfec24a_0.tar.bz2 
+r-base-4.1.0-h9e01966_1.tar.bz2
+r-s2-1.0.6-r40h42b9fc4_0.tar.bz2
+r-rcpp-1.0.6-r40h03ef668_0.tar.bz2
+r-proxy-0.4_26-r40hcfec24a_0.tar.bz2
+r-magrittr-2.0.1-r40hcfec24a_1.tar.bz2
+r-kernsmooth-2.23_20-r40h742201e_0.tar.bz2
+r-cpp11-0.3.1-r40hc72bb7e_0.tar.bz2
+r-units-0.7_2-r40h03ef668_0.tar.bz2

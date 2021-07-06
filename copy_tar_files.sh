@@ -7,7 +7,7 @@ target_package_dir=conda-packages-to-add
 
 for pkg in $packages
 do
-
-cp ${source_package_dir}/${pkg}.tar.bz2 ${target_package_dir}/
+    echo $pkg
+    cp ${source_package_dir}/${pkg}.tar.bz2 ${target_package_dir}/
 
 done
