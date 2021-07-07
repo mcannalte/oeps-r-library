@@ -1,14 +1,12 @@
 # oeps-tutorial-r-packages
-provides a complete library of r packages as a workaround for HEAL platform issues
 
+**provides downloaded linux architecture conda files to create conda environment with R geo tools.**
 
-- copy all R library packages to r-library folder
+### to get repository from github
+git clone https://github.com/mbkranz/oeps-r-library.git
 
+### to install packages
 
-- copy reduced list to the r-library-reduced folder
-
->mkdir r-library-reduced
->`for f in sf tmap tmaptools stars units classint leaflet widgetframe htmlwidgets htmltools leafem leafsync abind crosstalk e1071; do cp -r r-library/"$f" ../r-library-reduced
-; done`
-
+in terminal, run:
+>`$HOME/install_conda_packages.sh`
 
